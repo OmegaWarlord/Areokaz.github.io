@@ -1,0 +1,16 @@
+{
+  "name": "areokaz",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "areokaz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrett Nalley",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "jquery.js": "0.0.2-security",
+    "opusscript": "0.0.7"
+  }
+}
